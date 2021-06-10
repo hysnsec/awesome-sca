@@ -1,5 +1,9 @@
 # Awesome Software Component Analysis(SCA)
+
+![Awesome SCA Image](images/awesome-sca.png)
+
 A curated list of Software Component Analysis (SCA) books, courses - free and paid, videos, tools and tutorials. SCA is a technique to find third party vulnerable components used in your  code.
+
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
