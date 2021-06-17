@@ -69,7 +69,7 @@ Backend Libraries - [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit
 
 * [dotnet CLI](https://devblogs.microsoft.com/nuget/how-to-scan-nuget-packages-for-security-vulnerabilities/#dotnet-cli)
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck)
-* [WhiteSource Bolt](https://www.whitesourcesoftware.com/free-developer-tools/bolt/)
+* [WhiteSource Bolt](https://www.whitesourcesoftware.com/free-developer-tools/bolt/) (Free offering that currently works within Azure DevOps or GitHub)
 
 
 ## Commercial Tools
@@ -92,7 +92,7 @@ Most commercial SCA tools support multiple programming languages like Java, Pyth
 * [Snyk Vulnerabilitydb](https://github.com/snyk/vulnerabilitydb)
 * [VulnDB Data Mirror](https://github.com/stevespringett/vulndb-data-mirror)
 * [NIST Data Mirror](https://github.com/stevespringett/nist-data-mirror)
-* [Exploit Database](https://www.exploit-db.com/webapps/) (Free offering that currently works within Azure DevOps or GitHub)
+* [Exploit Database](https://www.exploit-db.com/webapps/) 
 
 
 ## Credits
