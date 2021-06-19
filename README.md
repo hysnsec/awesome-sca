@@ -68,6 +68,8 @@ Backend Libraries - [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit
 ### .Net
 
 * [dotnet CLI](https://devblogs.microsoft.com/nuget/how-to-scan-nuget-packages-for-security-vulnerabilities/#dotnet-cli)
+* [Dependancy-Check](https://github.com/jeremylong/DependencyCheck)
+* [WhiteSource Bolt](https://www.whitesourcesoftware.com/free-developer-tools/bolt/) (Free offering that currently works within Azure DevOps or GitHub)
 
 
 ## Commercial Tools
