@@ -25,7 +25,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Articles
 * [Component Analysis from OWASP](https://owasp.org/www-community/Component_Analysis)
-
+* [Guide to Software Composition Analysis (SCA) by Snyk](https://snyk.io/blog/what-is-software-composition-analysis-sca-and-does-my-company-need-it/)
 
 ## Courses and Training
 
@@ -46,12 +46,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Javascript
 
-Client Side Libraries - [Retire.js](https://github.com/RetireJS/retire.js)
+Client Side Libraries:
+* [Retire.js](https://github.com/RetireJS/retire.js)
 
-Backend Libraries - [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit)
+Backend Libraries:
+* [NPM Audit](https://docs.npmjs.com/cli/v7/commands/npm-audit)
+* [AuditJS](https://github.com/sonatype-nexus-community/auditjs)
 
 ### Ruby
 * [bundler-audit](https://github.com/rubysec/bundler-audit)
+* [Chelsea](https://github.com/sonatype-nexus-community/chelsea)
 
 ### Java
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck)
