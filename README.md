@@ -87,6 +87,7 @@ Most commercial SCA tools support multiple programming languages like Java, Pyth
 * [Contrast Security](https://www.contrastsecurity.com/interactive-application-security-testing-iast)
 * [WhiteSource](https://www.whitesourcesoftware.com/whitesource-languages/)
 * [Whitehat SCA](https://www.whitehatsec.com/products/static-application-security-testing/software-composition-analysis/)
+* [Vulert SCA](https://vulert.com/abom/)
 * [Debricked](https://debricked.com/)
 
 
@@ -97,6 +98,7 @@ Most commercial SCA tools support multiple programming languages like Java, Pyth
 * [VulnDB Data Mirror](https://github.com/stevespringett/vulndb-data-mirror)
 * [NIST Data Mirror](https://github.com/stevespringett/nist-data-mirror)
 * [Exploit Database](https://www.exploit-db.com/webapps/)
+* [Vulert Vulnerability Database](https://vulert.com/vuln-db/)
 * [Debricked Vulnerability Database](https://app.debricked.com/en/vulnerability-database)
 
 
