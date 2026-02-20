@@ -73,7 +73,7 @@ Backend Libraries:
 
 * [dotnet CLI](https://devblogs.microsoft.com/nuget/how-to-scan-nuget-packages-for-security-vulnerabilities/#dotnet-cli)
 * [Dependancy-Check](https://github.com/jeremylong/DependencyCheck)
-* [WhiteSource Bolt](https://www.whitesourcesoftware.com/free-developer-tools/bolt/) (Free offering that currently works within Azure DevOps or GitHub)
+* [Mend Bolt](https://www.mend.io/free-developer-tools/bolt/) (Free offering that currently works within Azure DevOps or GitHub — formerly WhiteSource Bolt)
 
 
 ## Commercial Tools
@@ -81,11 +81,11 @@ Backend Libraries:
 Most commercial SCA tools support multiple programming languages like Java, Python, Ruby, Go, PHP,.NET,Scala and license scans.
 
 * [Snyk](https://snyk.io/)
-* [SourceClear](https://www.sourceclear.com/)
+* [Veracode SCA](https://www.veracode.com/products/software-composition-analysis) (formerly SourceClear, acquired by Veracode)
 * [Sonatype](https://www.sonatype.com/)
 * [BlackDuck](https://www.blackducksoftware.com/solutions/application-security)
 * [Contrast Security](https://www.contrastsecurity.com/interactive-application-security-testing-iast)
-* [WhiteSource](https://www.whitesourcesoftware.com/whitesource-languages/)
+* [Mend](https://www.mend.io/) (formerly WhiteSource)
 * [Whitehat SCA](https://www.whitehatsec.com/products/static-application-security-testing/software-composition-analysis/)
 * [Vulert SCA](https://vulert.com/abom/)
 * [Debricked](https://debricked.com/)
