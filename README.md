@@ -98,6 +98,7 @@ Most commercial SCA tools support multiple programming languages like Java, Pyth
 * [VulnDB Data Mirror](https://github.com/stevespringett/vulndb-data-mirror)
 * [NIST Data Mirror](https://github.com/stevespringett/nist-data-mirror)
 * [Exploit Database](https://www.exploit-db.com/webapps/)
+* [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 * [Vulert Vulnerability Database](https://vulert.com/vuln-db/)
 * [Debricked Vulnerability Database](https://app.debricked.com/en/vulnerability-database)
 
