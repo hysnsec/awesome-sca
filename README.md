@@ -44,6 +44,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Free Tools
 
+### Multi-language
+* [BomLens](https://github.com/sktelecom/bomlens) (Local-first SBOM generator and open source risk assessment across Java, Python, Node.js, Go, Ruby, PHP, Rust, .NET and C/C++; CycloneDX output with license and vulnerability reports)
+
 ### Javascript
 
 Client Side Libraries:
