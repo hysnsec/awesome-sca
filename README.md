@@ -89,6 +89,7 @@ Most commercial SCA tools support multiple programming languages like Java, Pyth
 * [Whitehat SCA](https://www.whitehatsec.com/products/static-application-security-testing/software-composition-analysis/)
 * [Vulert SCA](https://vulert.com/abom/)
 * [Debricked](https://debricked.com/)
+* [Safeguard](https://safeguard.sh)
 
 
 ## SCA Vulnerability Databases
